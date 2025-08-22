@@ -1,0 +1,14 @@
+{
+  "name": "prakash-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site served with Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Prakash Raj K",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
